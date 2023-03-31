@@ -8,6 +8,7 @@ justify-content: center;
   align-content: center;
   display: flex;
 align-items: center;
+margin-right:50px;
 }
 .main-div{
     width: 700px;
@@ -15,7 +16,7 @@ align-items: center;
 
 }
 .header {
-margin-top:50px;
+
   display: flex;
   width: 700px;
   height: 100px;
