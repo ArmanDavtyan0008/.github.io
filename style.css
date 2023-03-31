@@ -7,7 +7,7 @@ body{
 justify-content: center;
   align-content: center;
   display: flex;
-margin-left:100px;
+/* margin-left:100px; */
 }
 .main-div{
     width: 700px;
