@@ -1,14 +1,16 @@
-
+*{
+margin: 0px;
+  padding: 0px;
+}
 body{
     background: #3B1261;
+justify-content: center;
+  align-items: center;
+  display: flex;
 }
 .main-div{
-    width: auto;
-    height: auto;
-    margin-top: 200px;
-margin-left: 400px;
-margin-right: 400px;
-margin-bottom:200px
+    width: 700px;
+    height: 500px;
 
 }
 .header {
