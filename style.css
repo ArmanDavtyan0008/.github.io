@@ -5,7 +5,7 @@ margin: 0px;
 body{
     background: #3B1261;
 justify-content: center;
-  align-items: center;
+  align-content: center;
   display: flex;
 margin-left:100px;
 }
