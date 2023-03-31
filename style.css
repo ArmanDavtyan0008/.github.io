@@ -4,12 +4,10 @@ margin: 0px;
 }
 body{
     background: #3B1261;
-justify-content: center;
-  display: flex;
-align-items: center;
-margin-right:50px;
 }
 .main-div{
+justify-content: center;
+align-items: center;
     width: 700px;
     height: 500px;
 
