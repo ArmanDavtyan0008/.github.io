@@ -5,10 +5,9 @@ margin: 0px;
 body{
     background: #3B1261;
 justify-content: center;
-  align-content: center;
   display: flex;
 align-items: center;
-margin-right:50px;
+margin-top:50px;
 }
 .main-div{
     width: 700px;
