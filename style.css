@@ -7,7 +7,6 @@ body{
 justify-content: center;
   display: flex;
 align-items: center;
-margin-top:50px;
 }
 .main-div{
     width: 700px;
@@ -15,7 +14,7 @@ margin-top:50px;
 
 }
 .header {
-
+margin-top:50px;
   display: flex;
   width: 700px;
   height: 100px;
