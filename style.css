@@ -1,6 +1,9 @@
 
 body{
     background: #3B1261;
+display: flex;
+justify-content: center;
+   align-items: center;
 }
 .main-div{
     width: auto;
