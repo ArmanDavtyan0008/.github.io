@@ -1,14 +1,12 @@
-body {
-  background: #3b1261;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  align-content: center;
+
+body{
+    background: #3B1261;
 }
-.main-div {
-  width: auto;
-  height: auto;
-  margin: 200px 400px 200px 400px;
+.main-div{
+    width: auto;
+    height: auto;
+    margin: 200px 200px 200px 200px;
+
 }
 .header {
   display: flex;
