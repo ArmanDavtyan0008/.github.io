@@ -1,12 +1,14 @@
-
-body{
-    background: #3B1261;
+body {
+  background: #3b1261;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
 }
-.main-div{
-    width: auto;
-    height: auto;
-    margin: 200px 200px 200px 200px;
-
+.main-div {
+  width: auto;
+  height: auto;
+  margin: 200px 400px 200px 400px;
 }
 .header {
   display: flex;
@@ -16,46 +18,43 @@ body{
 }
 
 .header-leftside {
-  background: #F9565B;
+  background: #f9565b;
   width: 580px;
- 
 }
 
-.header-rightside{
-    background: #FDFD23;
-    width: 100px;
+.header-rightside {
+  background: #fdfd23;
+  width: 100px;
 }
 
-.footer{
-    display: flex;
-    margin-top: 20px;
-    width: 700px;
-    height: 400px;
+.footer {
+  display: flex;
+  margin-top: 20px;
+  width: 700px;
+  height: 400px;
 }
-.left{
-width: 400px;
-height: 400px;
-background: #F9565B;
-}
-
-.right-side{
-    display:flex;
-    flex-direction: column;
+.left {
+  width: 400px;
+  height: 400px;
+  background: #f9565b;
 }
 
-.num1{
-    margin-left: 15px;
-    width: 300px;
-    height: 200px;
-    background: #3D9FF8;
+.right-side {
+  display: flex;
+  flex-direction: column;
 }
 
-.num2{
-    margin-top: 15px;
-    margin-left: 15px;
-    width: 300px;
-    height: 200px;
-    background: #3D9FF8;
+.num1 {
+  margin-left: 15px;
+  width: 300px;
+  height: 200px;
+  background: #3d9ff8;
 }
 
-
+.num2 {
+  margin-top: 15px;
+  margin-left: 15px;
+  width: 300px;
+  height: 200px;
+  background: #3d9ff8;
+}
